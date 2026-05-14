@@ -5,6 +5,7 @@
 This project is a data visualization dashboard designed to analyze **sales and profit performance from 2014 to 2017**. It provides a clear and interactive view of business performance across categories, time periods, and geographical locations. The goal is to help users quickly understand key business trends, identify top-performing segments, and make data-driven decisions.
 
 ---
+Screenshort: https://drive.google.com/file/d/1tAfzaBSFjLwJQO8roFNIglqHYtn4B5Fi/view?usp=sharing
 
 ## ✨ Feature Breakdown
 
